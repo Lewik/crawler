@@ -1,0 +1,4 @@
+mbl_crawler:
+    resource: "@MblCrawlerBundle/Resources/config/routing.xml"
+    prefix:   /
+
